@@ -1,0 +1,113 @@
+{
+  "recommendations": [
+    {
+      "product_id": "P001",
+      "original_title": "Lacoste Elite Active 224 2 SMA",
+      "evaluation": {
+        "rating": "Needs Improvement",
+        "reasoning": "The product title lacks important information that would help potential buyers understand what the product is. It is unclear whether the product is a shoe, a shirt, or some other item. The title also does not include any details about the product's size, color, or material.",
+        "suggested_attributes": [
+          "Product type",
+          "Color",
+          "Size",
+          "Material"
+        ],
+        "improved_title": "Lacoste Elite Active 224 2 SMA Men's White Leather Sneakers, Size 10"
+      },
+      "needs_improvement": true,
+      "suggested_attributes": [
+        "Product type",
+        "Color",
+        "Size",
+        "Material"
+      ],
+      "improved_title": "Lacoste Elite Active 224 2 SMA Men's White Leather Sneakers, Size 10"
+    },
+    {
+      "product_id": "P002",
+      "original_title": "6 ' Fiberglass Step Ladder Folding",
+      "evaluation": {
+        "rating": "Needs Improvement",
+        "reasoning": "The product title is too short and lacks important details that could attract potential buyers. It does not provide information about the brand, the weight capacity, the number of steps, or any special features of the ladder.",
+        "suggested_attributes": [
+          "Brand",
+          "Weight Capacity",
+          "Number of Steps",
+          "Special Features"
+        ],
+        "improved_title": "Werner 6' Fiberglass Step Ladder, 300 lbs Weight Capacity, Folding, Non-Slip Treads"
+      },
+      "needs_improvement": true,
+      "suggested_attributes": [
+        "Brand",
+        "Weight Capacity",
+        "Number of Steps",
+        "Special Features"
+      ],
+      "improved_title": "Werner 6' Fiberglass Step Ladder, 300 lbs Weight Capacity, Folding, Non-Slip Treads"
+    },
+    {
+      "product_id": "P003",
+      "original_title": "BRAND NEW GUCCI Ophidia Black Suede Leather Dome Cross Body Shoulder Bag Purse",
+      "evaluation": {
+        "rating": "Good",
+        "reasoning": "The product title is clear, concise, and includes the brand name, product type, color, and material. It also specifies that the product is brand new, which is a key selling point for many buyers.",
+        "suggested_attributes": [
+          "Size",
+          "Closure Type",
+          "Number of Compartments"
+        ],
+        "improved_title": null
+      },
+      "needs_improvement": false,
+      "suggested_attributes": [
+        "Size",
+        "Closure Type",
+        "Number of Compartments"
+      ],
+      "improved_title": null
+    },
+    {
+      "product_id": "P004",
+      "original_title": "Bose QuietComfort Ultra Noise Cancelling Headphones, Certified Refurbished",
+      "evaluation": {
+        "rating": "Good",
+        "reasoning": "The product title is clear, concise, and includes the brand name, product type, and a key feature (noise cancelling). It also mentions that the product is certified refurbished, which is important information for potential buyers.",
+        "suggested_attributes": [
+          "Color",
+          "Model Number",
+          "Connectivity Type"
+        ],
+        "improved_title": null
+      },
+      "needs_improvement": false,
+      "suggested_attributes": [
+        "Color",
+        "Model Number",
+        "Connectivity Type"
+      ],
+      "improved_title": null
+    },
+    {
+      "product_id": "P005",
+      "original_title": "NWT Loft Red Blouse Floral Lace Trim Mixed Media Small Tunic Top Twee Spring",
+      "evaluation": {
+        "rating": "Needs Improvement",
+        "reasoning": "The title is too long and contains too many descriptors which can be confusing for the buyer. It also includes an unclear term 'Twee' which may not be understood by all potential buyers. The size of the blouse is also not clearly stated.",
+        "suggested_attributes": [
+          "Material",
+          "Brand",
+          "Size"
+        ],
+        "improved_title": "NWT Loft Small Red Floral Lace Trim Tunic Top Blouse for Spring"
+      },
+      "needs_improvement": true,
+      "suggested_attributes": [
+        "Material",
+        "Brand",
+        "Size"
+      ],
+      "improved_title": "NWT Loft Small Red Floral Lace Trim Tunic Top Blouse for Spring"
+    }
+  ]
+}

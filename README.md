@@ -73,6 +73,26 @@ ecommerce-genai-apps/
    pip install -r requirements.txt
    ```
 
+### Step 3: Set Up API Keys Securely
+1. Copy the `.env.example` file to create your own `.env` file:
+   ```bash
+   cp .env.example .env
+   ```
+2. Open the `.env` file in your preferred text editor:
+   ```bash
+   nano .env   # or use any text editor
+   ```
+3. Add your actual OpenAI API key:
+   ```
+   OPENAI_API_KEY=sk-your-actual-api-key-here
+   ```
+4. Save and close the file.
+
+**Important Security Note:**
+- The `.env` file is automatically excluded from Git via the `.gitignore` file
+- Never commit API keys or other sensitive information directly to your repository
+- Always use environment variables for sensitive information
+
 ## Pushing the Project to GitHub
 
 ### Step 1: Initialize a Git Repository

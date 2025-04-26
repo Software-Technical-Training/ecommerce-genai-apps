@@ -1,1 +1,24 @@
-{}
+{
+  "products": [
+    {
+      "id": "P001",
+      "title": "Lacoste Elite Active 224 2 SMA"
+    },
+    {
+      "id": "P002",
+      "title": "6 ' Fiberglass Step Ladder Folding"
+    },
+    {
+      "id": "P003",
+      "title": "BRAND NEW GUCCI Ophidia Black Suede Leather Dome Cross Body Shoulder Bag Purse"
+    },
+    {
+      "id": "P004",
+      "title": "Bose QuietComfort Ultra Noise Cancelling Headphones, Certified Refurbished"
+    },
+    {
+      "id": "P005",
+      "title": "NWT Loft Red Blouse Floral Lace Trim Mixed Media Small Tunic Top Twee Spring"
+    }
+  ]
+}
