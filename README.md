@@ -1,4 +1,4 @@
-# Ecommerce GenAI Apps
+# Ecommerce GenAI Apps, new update
 
 ## Project Structure
 ```
